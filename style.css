@@ -1332,7 +1332,7 @@ a img.aligncenter {
 .desc {
     padding: 30px;
     position: relative;
-    background: #000;
+    /* background: #000; */
     border: none;
 	border-radius: 2px;
 }
